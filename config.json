@@ -1,0 +1,12 @@
+{
+  "bot_token": "bot token",
+  "start_message": "Hello! Send a file.",
+  "db_file": "files.json",
+  "max_file_commands": 95,
+  "confirm_message": "✅ Done",
+  "confirm_seconds": 0,
+  "temp_seconds": 3,
+  "start_delete_seconds": 3,
+  "delete_upload": true
+}
+
